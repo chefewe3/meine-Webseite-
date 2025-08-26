@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<title>Nummerierte Bilder bis 17</title>
+<style>
+  body {
+    margin: 20px;
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+  }
+  .number-box {
+    width: 300px;
+    height: 150px;
+    background-color: black;
+    color: white;
+    font-size: 24px;      /* kleiner */
+    font-weight: 300;     /* dünner */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+  }
+  .poem-text {
+    width: 300px;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    font-weight: 300;
+    white-space: pre-wrap; /* Erlaubt Zeilenumbrüche und Einrückungen */
+    margin-top: 20px;
+    text-align: center;
+    font-family: "Fraktur", serif; /* optional für stil */
+  }
+</style>
+</head>
+<body>
+
+  <img src="nr1.jpg" alt="Bild 1" />
+  <div class="number-box">1</div>
+
+  <img src="nr2.jpg" alt="Bild 2" />
+  <div class="number-box">2</div>
+
+  <img src="nr3.jpg" alt="Bild 3" />
+  <div class="number-box">3</div>
+
+  <img src="nr4.jpg" alt="Bild 4" />
+  <div class="number-box">4</div>
+
+  <img src="nr5.jpg" alt="Bild 5" />
+  <div class="number-box">5</div>
+
+  <img src="nr6.jpg" alt="Bild 6" />
+  <div class="number-box">6</div>
+
+  <img src="nr7.jpg" alt="Bild 7" />
+  <div class="number-box">7</div>
+
+  <img src="nr8.jpg" alt="Bild 8" />
+  <div class="number-box">8</div>
+
+  <img src="nr9.jpg" alt="Bild 9" />
+  <div class="number-box">9</div>
+
+  <img src="nr10.jpg" alt="Bild 10" />
+  <div class="number-box">10</div>
+
+  <img src="nr11.jpg" alt="Bild 11" />
+  <div class="number-box">11</div>
+
+  <img src="nr12.jpg" alt="Bild 12" />
+  <div class="number-box">12</div>
+
+  <img src="nr13.jpg" alt="Bild 13" />
+  <div class="number-box">13</div>
+
+  <img src="nr14.jpg" alt="Bild 14" />
+  <div class="number-box">14</div>
+
+  <img src="nr15.jpg" alt="Bild 15" />
+  <div class="number-box">15</div>
+
+  <img src="nr16.jpg" alt="Bild 16" />
+  <div class="number-box">16</div>
+
+  <img src="nr17.jpg" alt="Bild 17" />
+  <div class="number-box">17</div>
+
+  <div class="poem-text">
+𝔏𝔲𝔠𝔦𝔣𝔢𝔯, 𝔣𝔦𝔩𝔦𝔲𝔰 𝔞𝔲𝔯𝔬𝔯𝔞𝔢, 𝔩𝔲𝔪𝔢𝔫 𝔰𝔱𝔢𝔩𝔩𝔞𝔯𝔲𝔪 𝔦𝔫𝔱𝔢𝔯 𝔬𝔪𝔫𝔢𝔰 𝔠𝔩𝔞𝔯𝔦𝔰𝔰𝔦𝔪𝔲𝔪, 𝔞 𝔭𝔬𝔢𝔱𝔦𝔰 𝔰𝔞𝔢𝔭𝔢 “𝔰𝔱𝔢𝔩𝔩𝔞 𝔪𝔞𝔱𝔲𝔱𝔦𝔫𝔞” 𝔞𝔭𝔭𝔢𝔩𝔩𝔞𝔱𝔲𝔯. ℑ𝔫 𝔰𝔠𝔯𝔦𝔭𝔱𝔲𝔯𝔦𝔰 𝔳𝔢𝔯𝔬, 𝔫𝔬𝔪𝔢𝔫 𝔢𝔦𝔲𝔰 𝔬𝔟𝔰𝔠𝔲𝔯𝔲𝔪 𝔰𝔢𝔫𝔰𝔲𝔪 𝔞𝔠𝔠𝔢𝔭𝔦𝔱: 𝔰𝔲𝔭𝔢𝔯𝔟𝔦𝔞 𝔢𝔫𝔦𝔪 𝔢𝔲𝔪 𝔡𝔢 𝔠𝔞𝔢𝔩𝔬 𝔡𝔢𝔦𝔢𝔠𝔦𝔱. ℑ𝔱𝔞 𝔏𝔲𝔠𝔦𝔣𝔢𝔯, 𝔮𝔲𝔦 𝔬𝔩𝔦𝔪 𝔩𝔲𝔠𝔢𝔪 𝔞𝔱𝔱𝔲𝔩𝔦𝔱, 𝔦𝔫 𝔱𝔢𝔫𝔢𝔟𝔯𝔞𝔰 𝔡𝔢𝔠𝔦𝔡𝔦𝔱, 𝔢𝔱 𝔢𝔵𝔢𝔪𝔭𝔩𝔲𝔪 𝔣𝔞𝔠𝔱𝔲𝔰 𝔢𝔰𝔱 𝔰𝔲𝔭𝔢𝔯𝔟𝔦𝔞𝔢 𝔥𝔬𝔪𝔦𝔫𝔲𝔪 𝔞𝔠 𝔠𝔞𝔰𝔲𝔰 𝔞𝔫𝔤𝔢𝔩𝔬𝔯𝔲𝔪.
+
+                                     𝔄𝔯𝔱 ℌ𝔢𝔦𝔫𝔯𝔦𝔠𝔥 𝔄𝔡𝔩𝔢𝔣𝔣
+  </div>
+
+  <!-- Musik -->
+  <audio autoplay loop>
+    <source src="musik.mp3" type="audio/mpeg" />
+    Dein Browser unterstützt das Audio-Element nicht.
+  </audio>
+
+</body>
+</html>
+
